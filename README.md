@@ -1,7 +1,7 @@
 # Introduction of BDSmomitorpyr
 ---
 You need to prepare LiteLoaderBDS and BDSpyrunner before you use BDSmonitorpyr.I will explain how to download them first.Here I thank Shrbox and other developers.
-**LiteLoaderBDS download website**:https://github.bibk.top/LiteLDev/LiteLoaderBDS
+**LiteLoaderBDS download website**:https://github.com/LiteLDev/LiteLoaderBDS
 **BDSpyrunner download website**:https://github.com/twoone-3/BDSpyrunner
 ---
 # What can it do...
